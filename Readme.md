@@ -20,20 +20,6 @@ The application is a Progressive Web App (PWA), which means users can install it
 
 ---
 
-## Screenshots 📸
-
-### Home Page  
-*(screenshot placeholder)*  
-
-### Incoming Call  
-*(screenshot placeholder)*  
-
-### In Call  
-*(screenshot placeholder)*  
-
-### Chat  
-*(screenshot placeholder)*  
-
 ---
 
 ## Tech Stack 💻
